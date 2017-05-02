@@ -1,0 +1,73 @@
+body{
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+  background: url(../images/topography.png) repeat center fixed;
+}
+h2{
+  color: #4AAAA5 !important;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+h3{
+  color: #4AAAA5 !important;
+  font-size: 20px !important;
+  font-weight: bold;
+  font-family: 'Georgia', Times, Times New Roman, serif !important;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 70px;
+}
+.navbar{
+  
+}
+.navbar-brand{
+  font-size: 24px !importANT;
+  color: #4AAAA5 !important;
+  font-family: 'Georgia', Times, Times New Roman, serif !important;
+}
+.about-me img{
+  width: 240px;
+  display: flex;
+  margin: 0 15 0 0;
+}
+.portfolio img{
+  width: 80%;
+  margin: 0 auto 25px auto;
+}
+.portfolio div{
+  position: relative;;
+  top: 30%;
+  width: 80%;
+  margin: 0 auto;
+  padding: 15px;
+  margin-bottom: 0;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+.connect img{
+  width: 30%;
+  margin-right: 2%; 
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  border-top: 5px solid #4aaaa5;
+  /* Set the fixed height of the footer here */
+  height: 75px;
+  padding: 25px;
+  color: white;
+  background-color: #666666;
+}
