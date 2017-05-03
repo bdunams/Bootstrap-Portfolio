@@ -33,17 +33,17 @@ body {
 }
 .about-me img{
   width: 240px;
-  display: flex;
-  margin: 0 15 0 0;
+  padding: 10px;
+  margin: 0 auto;
 }
 .portfolio img{
-  width: 80%;
-  margin: 0 auto 25px auto;
+  width: 90%;
+  margin: 25px auto 0 auto;
 }
 .portfolio div{
   position: relative;;
-  top: 30%;
-  width: 80%;
+  bottom: 65px;
+  width: 90%;
   margin: 0 auto;
   padding: 15px;
   margin-bottom: 0;
